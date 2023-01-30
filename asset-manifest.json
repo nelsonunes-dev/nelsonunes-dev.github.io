@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.58c834f8.css",
-    "main.js": "/static/js/main.27591dde.js",
+    "main.js": "/static/js/main.76aeee8f.js",
     "static/media/vodacom.logo.jpg": "/static/media/vodacom.logo.2b065fc893ece55e96e6.jpg",
     "static/media/ioco.logo.jpg": "/static/media/ioco.logo.64b3f39b92dd1c615d0f.jpg",
     "static/media/alexanderforbes.logo.jpg": "/static/media/alexanderforbes.logo.d327d189581139517995.jpg",
@@ -52,10 +52,10 @@
     "static/media/move_list.svg": "/static/media/move_list.d457cef7d5ad378a707d987862d877e5.svg",
     "static/media/add.svg": "/static/media/add.aedb4fecd7905870c8cd12dc55f62d93.svg",
     "main.58c834f8.css.map": "/static/css/main.58c834f8.css.map",
-    "main.27591dde.js.map": "/static/js/main.27591dde.js.map"
+    "main.76aeee8f.js.map": "/static/js/main.76aeee8f.js.map"
   },
   "entrypoints": [
     "static/css/main.58c834f8.css",
-    "static/js/main.27591dde.js"
+    "static/js/main.76aeee8f.js"
   ]
 }
